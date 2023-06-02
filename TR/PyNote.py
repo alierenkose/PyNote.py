@@ -1,3 +1,5 @@
+###@alierenkose
+
 from datetime import datetime, date, timedelta
 import os
 
@@ -148,3 +150,4 @@ while True:
 
     else:
         print("Geçersiz seçim!")
+###@alierenkose
